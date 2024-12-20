@@ -1,4 +1,4 @@
-# pangram-perplexity
+# Bee-wildered: ChatGPT-4o-mini struggles with the NYT Spelling Bee
 
 I have been playing the NYT games for a few years now (Letterboxed, Spelling Bee, Connections, Wordle, etc.). I started off being horrible, but over time, I've gotten familiar with the different solves.
 
